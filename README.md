@@ -6,5 +6,3 @@
 
 Have a nice day:)
 =======
-# grade_tracker_coursework
->>>>>>> c6e47d51713758f00825a39641c7a1a7287c70fc
